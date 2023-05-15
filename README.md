@@ -8,14 +8,18 @@ When enabled, this extension automatically changes the sorting option of videos 
 
 ## Installation
 
+### Option 1
+
+- Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-latest-default/mbbfhfdldichndmdbgoidiaodjhahldp)
+
+### Option 2
+
 1. Grab the zip file from the latest release attachments
 2. Unzip it onto your machine
 3. Go to `chrome://extensions/`
 4. At the top right, enable "Developer mode"
 5. At the top left, click "Load unpacked"
 6. Select the folder of which you unzipped the extension into
-
-I have also submitted this to the Chrome Marketplace. If accepted, will be available through there!
 
 ## Notes
 
